@@ -1,16 +1,38 @@
-## Hi there 👋
+# Raul Dantas
 
-<!--
-**Raultsn/Raultsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer • Java & C++ Specialist • SQL & Web Technologies Enthusiast**
 
-Here are some ideas to get you started:
+🌐 [**Portfólio**](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✦ Stack
+
+### ✦ Tech Stack
+
+#### 💻 Languages & Core
+Java • C • C++ • Python 
+Programação Orientada a Objetos • Estruturas de Dados • Algoritmos
+
+#### 🌐 Frontend & Layout
+HTML • CSS • Responsive Design • UI Components  
+
+#### 🗄️ Databases
+SQL • MySQL • PostgreSQL  
+Modelagem de Dados • Consultas Otimizadas • Integração com Aplicações
+
+#### ⚙️ DevOps & Workflow
+Git • GitHub • Linux • Docker (aprendizado contínuo)  
+Versionamento de Código • Automação de Ambientes • Deploy Local e Remoto
+
+---
+
+### ✦ Contact
+
+📷 [Instagram](https://instagram.com/seu_usuario)  
+💼 [LinkedIn](https://linkedin.com/in/seu_usuario)  
+📧 **raulvieiradantas@gmail.com**
+
+---
+
+> _“Code. Learn. Evolve.”_
