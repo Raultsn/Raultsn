@@ -29,8 +29,8 @@ Versionamento de Código • Automação de Ambientes • Deploy Local e Remoto
 
 ### ✦ Contact
 
-📷 [Instagram](https://instagram.com/seu_usuario)  
-💼 [LinkedIn](https://linkedin.com/in/seu_usuario)  
+📷 [Instagram](https://www.instagram.com/rauldanttss/)  
+💼 [LinkedIn](https://www.linkedin.com/in/raul-dantas-0b46a71a5/)  
 📧 **raulvieiradantas@gmail.com**
 
 ---
