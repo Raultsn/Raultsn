@@ -4,29 +4,50 @@
 
 🌐 [**Portfólio**](https://github.com/Raultsn/Raul-Portifolio)
 
----
+💻 Core Engineering
 
-### ✦ Stack
+JavaScript (ES6+) • TypeScript • Python • C# (.NET Core)
+Programação Orientada a Objetos (OOP) • Design Patterns • Estruturas de Dados • Algoritmos
+Arquitetura de Software (MVC, Camadas, Clean Architecture – conceitual)
 
-### ✦ Tech Stack
+🌐 Frontend Engineering
 
-#### 💻 Languages & Core
-Java • C • C++ • Python 
-Programação Orientada a Objetos • Estruturas de Dados • Algoritmos
+React.js • Component-Based Architecture • State Management (conceitos)
+HTML5 • CSS3 • Responsive Design • UI/UX Principles
+Consumo e integração com APIs REST • Performance de Interfaces
 
-#### 🌐 Frontend & Layout
-HTML • CSS • Responsive Design • UI Components  
+⚙️ Backend & Systems Architecture
 
-#### 🗄️ Databases
-SQL • MySQL • PostgreSQL  
-Modelagem de Dados • Consultas Otimizadas • Integração com Aplicações
+Node.js • C# (.NET Core) • APIs RESTful
+Microsserviços (conceitual) • Integração de Sistemas
+Autenticação e Autorização (JWT – conceitual)
+Boas práticas de arquitetura backend e escalabilidade
 
-#### ⚙️ DevOps & Workflow
-Git • GitHub • Linux • Docker (aprendizado contínuo)  
-Versionamento de Código • Automação de Ambientes • Deploy Local e Remoto
+🗄️ Data & Databases
 
----
+SQL • MySQL • PostgreSQL • SQL Server (conceitual)
+Modelagem de Dados Relacional • Normalização
+Consultas complexas • Otimização de queries • Integração com sistemas
 
+🤖 AI & Data Engineering
+
+Python • Machine Learning (fundamentos sólidos)
+Inteligência Artificial aplicada a sistemas
+IA Generativa (uso via APIs e integração)
+Processamento e análise de dados (Pandas – básico/intermediário)
+
+⚙️ DevOps & Engineering Practices
+
+Git • GitHub • Linux (básico/intermediário)
+Docker (conceitos e uso inicial)
+CI/CD (noções) • Versionamento profissional
+Ambientes de desenvolvimento e deploy (conceitual)
+
+🔌 APIs & Integration
+
+REST APIs • Postman • Integração de serviços
+Validação de payloads • Consumo e testes de APIs
+Monitoramento básico de respostas e erros
 ### ✦ Contact
 
 📷 [Instagram](https://www.instagram.com/rauldanttss/)  
